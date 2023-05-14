@@ -1,2 +1,2 @@
 # Oosterhorn_SWWTP
-Contains all projects related to Oosterhorn_SWWTP dataset 
+This is a sobmodule that contains all projects related to Oosterhorn_SWWTP dataset 
